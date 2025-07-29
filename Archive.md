@@ -1,0 +1,7 @@
+| Format            | Extension | License                                              | Description                                                                                                                   |
+| ----------------- | --------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **TAR**           | `.tar`    | GPL                                                  | Standard archive format on Unix-like systems, often used in combination with other compression formats like `.gz` and `.bz2`. |
+| **ARJ**           | `.arj`    | Free for personal use, GPL (in some implementations) | Older compression/archiving format, popular on DOS systems. Open-source implementations are available.                        |
+| **LHA**           | `.lha`    | Free for personal use, GPL                           | Older format, used primarily in Japan, previously popular on Amiga and DOS systems.                                           |
+| **XAR**           | `.xar`    | BSD                                                  | Extensible archive format, used in packaging for some Unix-based systems.                                                     |
+| **ISO (ISO9660)** | `.iso`    | Public Domain                                        | A format used for disk images, often for CD/DVD or Blu-ray storage, and can be considered an archive of files.                |
