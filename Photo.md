@@ -1,0 +1,12 @@
+| **Photo Format**  | **Description**                                                              | **License**             | **Compression** | **Lossy/Lossless** | **Use Cases**                                         |
+| ----------------- | ---------------------------------------------------------------------------- | ----------------------- | --------------- | ------------------ | ----------------------------------------------------- |
+| **PNG**           | Lossless image format with support for transparency                          | PNG License (libre)     | Lossless        | Lossless           | Web images, icons, graphics, transparency             |
+| **OpenEXR**       | High dynamic range (HDR) image format, supports multiple channels            | OpenEXR License (libre) | Lossless        | Lossless           | Visual effects, professional photography, HDR imaging |
+| **SVG**           | Scalable vector graphics, resolution-independent                             | W3C License (libre)     | Lossless        | Lossless           | Web graphics, icons, logos, illustrations             |
+| **XCF**           | Native file format for GIMP, supports layers and various editing tools       | GPL (libre)             | Lossless        | Lossless           | Image editing, graphic design, prototyping            |
+| **RAW (Various)** | Unprocessed sensor data from cameras (various open-source supported formats) | Varies (often open)     | Lossless        | Lossless           | Photography, professional post-processing             |
+
+| **RAW Format**        | **Description**                                                     | **License**          | **Compression** | **Lossy/Lossless** | **Use Cases**                                                |
+| --------------------- | ------------------------------------------------------------------- | -------------------- | --------------- | ------------------ | ------------------------------------------------------------ |
+| **dcraw** (Open Tool) | Open-source RAW decoding tool that supports many camera formats     | GPL (libre)          | N/A             | Lossless           | Decoding and processing RAW files, photo editing, conversion |
+| **LibRaw**            | Open-source library for reading RAW files from many camera formats  | GPL (libre)          | N/A             | Lossless           | RAW file decoding, processing, integration into software     |
