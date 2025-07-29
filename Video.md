@@ -1,0 +1,5 @@
+| Format    | Type            | Codec(s)                        | License                  | Use Cases                               | Advantages                                                                 |
+|-----------|-----------------|---------------------------------|--------------------------|----------------------------------------|---------------------------------------------------------------------------|
+| **Ogg**   | Container       | Theora (video), Vorbis (audio)  | Open-source (Xiph.org)    | Streaming, archiving, web video       | Free and open, alternative to proprietary formats, supported on Linux.     |
+| **AV1**   | Container       | AV1 (video), Opus (audio)       | Open-source (Royalty-free)| Streaming (4K+), Web video            | Better compression, royalty-free, supported by major companies, growing popularity. |
+| **MKV**   | Container       | H.264, VP8, VP9, AV1, etc.      | Open-source (GNU LGPL)    | High-quality video storage, streaming | Flexible, supports many codecs, widely used for HD/4K videos and Blu-ray rips. |
